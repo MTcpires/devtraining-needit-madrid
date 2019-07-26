@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Delete">0a6ff3622f76330029a749e72799b63d</button>
+        <description/>
+        <field_name/>
+        <label>Delete</label>
+        <location>trailing_swipe</location>
+        <name>Delete</name>
+        <order>1</order>
+        <parent>1dfceb262f36330029a749e72799b670</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-26 14:02:58</sys_created_on>
+        <sys_id>82fd233a2f32330029a749e72799b6b3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Delete</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_button_instance_82fd233a2f32330029a749e72799b6b3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-26 14:02:58</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=82fd233a2f32330029a749e72799b6b3"/>
+</record_update>
